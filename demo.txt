@@ -1,1 +1,4 @@
-This is a demo file
+shortcut keyt
+win + ctrl + d - for new virtual desktop
+win + ctrl + left/right - for switching left and right on virtual desktop in windows.
+win + ctrl + f4  - for closing current tab
