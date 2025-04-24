@@ -8,3 +8,6 @@ win + m = to minimize all window
 win + shift + m = to restore minimize window
 win + d = to show desktop/again to restore work
 
+ctrl+shift+i = for devloper option in chrome or you just right click.
+ctrl + shift + t = to reopen the last recent page in chrome.
+ctrl + esc = to see resource monitor
